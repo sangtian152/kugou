@@ -1,6 +1,8 @@
 # kugou
 
 > follow kugou
+#预览
+https://sangtian152.github.io/kugou/dist
 
 ## Build Setup
 
